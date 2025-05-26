@@ -1,0 +1,36 @@
+{
+  "data": {
+    "movies": [
+      {
+        "id": "1",
+        "title": "Inception",
+        "description": "A skilled thief is offered a chance to have his past crimes forgiven...",
+        "releaseYear": 2010,
+        "durationMinutes": 148,
+        "rating": 8.8,
+        "posterUrl": "https://i.ytimg.com/vi/YoHD9XEInc0/hq720.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1"
+      },
+      {
+        "id": "2",
+        "title": "The Matrix",
+        "description": "A computer hacker learns about the true nature of reality...",
+        "releaseYear": 1999,
+        "durationMinutes": 136,
+        "rating": 8.7,
+        "posterUrl": "https://i.ytimg.com/vi/vKQi3bBA1y8/hq720.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/vKQi3bBA1y8?autoplay=1"
+      },
+      {
+        "id": "3",
+        "title": "Parasite",
+        "description": "Greed and class discrimination threaten the newly formed symbiotic relationship...",
+        "releaseYear": 2019,
+        "durationMinutes": 132,
+        "rating": 8.6,
+        "posterUrl": "https://i.ytimg.com/vi/5xH0HfJHsaY/hq720.jpg",
+        "trailerUrl": "https://www.youtube.com/embed/5xH0HfJHsaY?autoplay=1"
+      }
+    ]
+  }
+}
